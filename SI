@@ -1,0 +1,69 @@
+1. Czynnik pewnosci (12, 13
+2. Zadanie planowania (6,
+3. Systemy z baza wiedzy (Z pominieciem terminologii)
+4. Rodzaje uczenia maszynowego
+5. Postprocessing, niedouczenie, przeuczenie (Bez drzew decyzyjnych)
+6. Budowa drzewa decyzyjnego
+7. Foward chaining, Backward chaingin
+8. Reprezentacja wiedzy w systemach ekspertowych
+9. Indukcyjne, abdukcyjne, dedukcyjne
+10. Metawiedza
+11. Logika rozmyta
+12. Zadanie klasyfikacji
+13. Reprezentacja wiedzy
+14. Indukcyjne, abdukcyjne i dedukcyjne
+15. Pojęcia z ML
+16. Metawiedza
+17. System typu tablica
+
+/---------------------------------------------------------/
+1. Zdefiniuj zadanie planowania
+2. Omów metodę Foward State Propagation, pokaż kilka kroków na przykładzie
+3. Jakie widzisz główne problemy związane z pozyskiwaniem wiedzy dla systemu ekspertowego
+4. Czynnik pewności w systemach ekspertowyc - zdefiniuj przykładową bazę wiedzy i pokaż wnioskowanie z czynnikiem pewności CF
+5. Jakie znasz podstawowe rodzaje uczenia maszynowego. Wymień i scharakteryzuj jednym zdaniem
+6. Czy warto stosować redukcję wymiaru przestrzeni atrybutów w zadanich klasyfikacji czy grupowania, dlaczego?
+7. Omów wybraną metodę reprezentacji wiedzy uwzględniają hierachię danych, podaj przykład
+8. Na czym polega krosswalidacaj i po co ją się stosuje?
+9. Omów reprezentację STRIPS i podaj przykład
+10. Masz zaplanować ruch robota w tej sali. Jaką wybierzesz metodę - omów ją krótko i pokaż jak ją zastosujesz
+11. Co rozumiesz pod pojęciem 'Reprezentacja wiedzy'
+12. Omów w punktach wsnioskowanie w tył, zdefiniuj przykładową baze wiedzy i pokaż kilka pierwszych kroków wnioskowanie, nie zapomnije podać kiedy kończy się proces wnioskowania
+13. Logika rozmyta w systemach z bazą wiedzy - zdefiniuj przykładową bazę wiedzy i pokaż wnioskowanie z logiką rozmytą
+14. Co oznacza pojęcie przeuczenia i jak się przed nim zabezpieczyć
+15. Jakie znasz podejścia do sekeli atrybutów w zadaniu klasyfikacji
+16. Czym różni się uczenie z nauczycielem od uczenia ze wzmocnieniem?
+17. Czy zadanie generowanie planu jest wnioskowaniem w logice monotonicznej czy niemonotoczniej, uzasadnij
+18. Omów metodę Backward State Propagation, pokaż kilka kroków na jej przykładzie
+19. Na co wpływa kolejnośc 'zapalania' stosowlaych reguł w typowych systemach eksperotwych?
+20. Poróœnaj zalety i wady wnioskowania w przód i wnioskowania w tył
+21. Jakie znasz sposoby przetwarzania widzy niepewnej, wymien. scharakteryzuj bardzo krótko, podaj wady i zalety
+22. Czym różni się uczenie indukcyjne od uczenia na podstawie przypadków (Case based reasoning)
+23. Czy warto stosować normalizację danych w systemach uczących i dlaczego?
+24. Dlaczego w zadaniu klasyfikacji stosuje się walidację na ciągu testowym?
+25. Dlaczego w zadaniu planowania stsuje się dedykowane metody reprezentacji wiedzy, inne niż w systemach z bazą wiedy
+26. jakie znasz metody generowanie planów? Wymień je, wybierz jeden i omów w punktach
+27. czy wnioskowanie w typowych systemach ekspertowych to wnioskowanie w logice monotonicznej czy niemonotoczniej, uzasadnij
+28. Omów w punktach wnioskowanie w przód, zdefiniuj przykładową bazę wiedzy i pokaż kilka pierwszych kroków wnioskowania, nie zapomij podać kiedy kończy się proces wnioskowania
+29. Przekonaj potencjalnego klienta że warto stosowaś systemy ekspertowe z wiedzą niepewną i zaproponuj wybrany przez Ciebei sposób jej przetwarzania, wyjaśnij go klientowi
+30. Co oznacza pojęcie 'klątwa wymiarowości' i jak można jej przeciwdziałać
+31. Czym różni się uczenie bez nauczyciele od uczenia ze wzmocnieniem
+32. Jakie znacz miery oceny jakoście klasyfikatora? Podaj ich definicje.
+33. Która z metod stanowi rozwinięcie metody STRIPS?
+34. Który z poniśzych nie jest podstawowym typem węzła w drzewach behawioralnych?
+a)Sekwejncyjny b)Selekcyjny c)Warunkowy
+35. Co definiuje świat (Środowisko zewnętrzen) w FSM?
+a)Stałe b)Zmienne C)Ogarniczenia
+36. Która z metod zakłada możliwość rozbijania etapów na mniejsze pod-etapy?
+a)Drzewa beahwioralne c)FSM c) HTN
+37. Które ze zdarzeń jest obsługiwane w metodze FSM w środowisku FRAIL?
+a)onDispose b)onUpdate c)onExit
+38. Co nie wchodzi w skład dziedziny planowania FSM
+39. Który z typów węzłów zakłada sukces gdy wybrany podwęzeł zakończy się sukcesem?
+a)Sekwejncyjny b)Selekcyjny c)...
+40. Który z elementów nie występuje na planszy w środowisku FRAIL
+a)Wybuchające beczki b)Apteczka c)Portal do teleportacji
+41. Podaj ​formalne​ definicje pojęć: abdukcja, dedukcja, i indukcja. Czy są one poprawnymi formami wnioskowania logicznego?
+42. Wyjaśnić coś o logice rozmytej i obliczyć “y” przy warunkach if a and b then y =middle, if c and d then y = high, mi(a) = 0,4, mi(b) = 0,5, mi(c) = 0,6, mi(d) = 0,8. i tu byl ten wykres z trojkatami. 0 - 20 low, 10 - 30 middle, 20 - 40 high, 30 - 50 very high. Oś y 0 - 1.
+43. (a) Zdefinuj formanie zadanie planowania (ujmij wejście i wyjście), więcej nie pamiętam (b) czy w stanie (danych?) wejściowym mogą być zmienne? (b) czy w stanie wyjściowym mogą być zmienne, (b) i (c) uzasadnij jednym zdanie
+44. Czy forward i backward chaining są metodami dedukcyjnymi? ​Uzasadnij swoją odpowiedź.
